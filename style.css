@@ -93,7 +93,7 @@ p {
   }
   .container {
     grid-template-areas: 'sedans suvs luxury';
-    max-width: 700px;
+    max-width: 720px;
   }
 
   .sedans {
