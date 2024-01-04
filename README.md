@@ -28,10 +28,13 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/RoosterRoo/3-Column-Preview-Card-Component)
+- Live Site URL: [Github pages](https://roosterroo.github.io/3-Column-Preview-Card-Component/)
 
 ## My process
+
+I used CSS Grid along with Flexbox for this project. I was initially thinking of breaking each individual
+component into grids as well, but the layout without it was according to the design. Might do it later though. Right now, only the container is setup as grid layout - vertically for mobile screens, horizontally for desktop screens.
 
 ### Built with
 
@@ -43,7 +46,11 @@ Users should be able to:
 
 ### What I learned
 
+I learned how to use CSS Grid for this.
+
 ### Continued development
+
+Might setup individual components as Grid as well. This project is subject to changes as and when feedback is received.
 
 ### Useful resources
 
